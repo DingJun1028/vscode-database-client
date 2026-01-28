@@ -1034,7 +1034,7 @@
 		"@types/vscode": "1.51.0",
 		"@types/webpack-sources": "^3.2.3",
 		"babel-loader": "^8.1.0",
-		"copy-webpack-plugin": "^6.3.0",
+		"copy-webpack-plugin": "^7.0.0",
 		"css-loader": "^3.5.3",
 		"file-loader": "^6.0.0",
 		"html-webpack-plugin": "^4.3.0",
